@@ -1,6 +1,2 @@
 # decoinpy
 decoinpy
-
-#
-
-# about
